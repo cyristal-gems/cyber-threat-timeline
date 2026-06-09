@@ -7,7 +7,7 @@ An **interactive D3.js timeline** visualizing significant cybersecurity incident
 ## ✨ Features
 - **Interactive timeline:** Dynamic D3.js visualization of 90+ major security incidents.
 - **Smart filters:** Toggleable dropdowns for *From/To year*, *Industry* (multi-select), and *Attack Type*.
-- **Detailed hovers:** Each dot shows a **3–4 sentence summary** with a “Read more” link.
+- **Detailed hovers:** Each dot shows a **3–4 sentence summary**
 - **Color-coded events:** Clear visual separation of data breaches/hacks, ransomware, and zero-day exploits.
 
 ---
