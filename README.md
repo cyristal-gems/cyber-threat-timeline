@@ -21,7 +21,7 @@ An **interactive D3.js timeline** visualizing significant cybersecurity incident
 ---
 
 ## 🌍 View the Site Here
-[Cyber Threat Timeline](https://cyristal-gems.github.io/cyber-threat-timeline)
+[Cyber Threat Timeline](https://cyrisjoseph.dev/cyber-threat-timeline)
 
 ---
 
