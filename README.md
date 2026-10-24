@@ -28,3 +28,18 @@ An **interactive D3.js timeline** visualizing significant cybersecurity incident
 ## 🤝 Connect
 - **LinkedIn:** [linkedin.com/in/cyristalj](https://linkedin.com/in/cyristalj) 
 - **GitHub:** [github.com/cyristal-gems](https://github.com/cyristal-gems)
+
+
+## Deploy on Vercel
+
+Import `cyristal-gems/cyber-threat-timeline` as a new Vercel project.
+
+- Framework preset: **Other**
+- Root directory: repository root (`./`)
+- Build command: empty
+- Install command: empty
+- Output directory: `.`
+
+The settings are saved in `vercel.json`. This is a static site with no build step, dependencies to install, or environment variables. Future pushes to the connected production branch deploy automatically. Once deployed, replace the live-site link above and the GitHub About website with the assigned Vercel address.
+
+To retire GitHub Pages, use repository Settings → Pages and disable its publishing source. Vercel deploys independently of GitHub Actions.
